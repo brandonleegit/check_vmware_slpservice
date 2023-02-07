@@ -10,3 +10,5 @@ The PowerCLI Script will run against the vCenter Server environment:
 - Output the names of hosts where it is running
 - Output the names of hosts where it is not running
 - If the host is running SLP service 
+- The SLP service is stopped and the policy is changed
+
